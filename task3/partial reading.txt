@@ -1,0 +1,37 @@
+PARTIAL READING - Subha (Rabindranath Tagore)
+Method: 124 sentences divided into 3 equal parts; random 20% of sentences sampled per part (seed=42).
+Sentences are shown in their original story order.
+======================================================================
+
+PART 1  (42 sentences, 8 sampled)
+----------------------------------------------------------------------
+[1.2] Her two elder sisters were Sukheshini and Suhasini, and for the sake of uniformity her father named his youngest girl Subhashini.
+[1.7] If only they would all forget her she felt she could endure it.
+[1.8] But who can forget pain?
+[1.9] Night and day her parents' minds were aching on her account.
+[1.15] There must be a process of translation, which is often inexact, and then we fall into error.
+[1.16] But black eyes need no translating; the mind itself throws a shadow upon them.
+[1.18] They who from birth have had no other speech than the trembling of their lips learn a language of the eyes, endless in expression, deep as the sea, clear as the heavens, wherein play dawn and sunset, light and shadow.
+[1.41] Subha would come to the shed and throw her arms round Sarbbashi's neck; she would rub her cheek against her friend's, and Panguli would turn her great kind eyes and lick her face.
+
+PART 2  (42 sentences, 8 sampled)
+----------------------------------------------------------------------
+[2.2] It was as though they guessed her anguish of spirit from her quiet look of sadness.
+[2.3] Coming close to her, they would rub their horns softly against her arms, and in dumb, puzzled fashion try to comfort her.
+[2.6] Subha had a comrade also among the higher animals, and it is hard to say what were the girl's relations with him; for he could speak, and his gift of speech left them without any common language.
+[2.14] It was thus most often that he met Subha.
+[2.28] Gradually she grew up.
+[2.35] Her heart was heavy, and she could not speak.
+[2.38] People blamed them, and even talked of making them outcasts.
+[2.41] Presently he returned and said: "We must go to Calcutta.
+
+PART 3  (40 sentences, 8 sampled)
+----------------------------------------------------------------------
+[3.2] With a vague fear that had been gathering for days, she dogged her father and mother like a dumb animal.
+[3.13] Subha went to the cow-shed to bid farewell to her childhood's comrades.
+[3.15] That night was the tenth of the moon.
+[3.27] He took special note of her tears, and thought she must have a tender heart.
+[3.33] They had saved their caste in this and their safety in the next world!
+[3.35] In less than ten days every one knew that the bride was dumb!
+[3.36] At least, if any one did not, it was not her fault, for she deceived no one.
+[3.40] His second wife was not dumb; she had a good deal to say.
