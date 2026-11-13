@@ -1,0 +1,39 @@
+ROLE:
+You are a computational literary scholar specializing in Critical Disability Studies, Affective Economies, and Ecofeminist Criticism in colonial South Asia.
+
+TASK:
+Analyze the complete narrative text of Rabindranath Tagore's short story "Subha" (1918 English translation) and extract verbatim textual evidence illustrating how a speech-impaired ("dumb") girl navigates phonocentric stigma, non-verbal multispecies kinship, and caste-patriarchal marital commodification.
+
+INPUT PRE-PROCESSING INSTRUCTIONS:
+- Analyze only the narrative prose below the "=====STORY STARTS BELOW=====" delimiter.
+- Ignore bibliographic metadata lines (TITLE, AUTHOR, SOURCE, STATUS, PRE-PROCESSING).
+- Divide the narrative chronologically into three equal structural segments ("Part 1", "Part 2", "Part 3") corresponding to childhood in Chandipur, adolescent companionship/social pressure, and relocation/marriage in Calcutta.
+
+EXTRACTION CATEGORIES:
+Extract verbatim quotes (complete sentences or contiguous clauses) categorized into three analytical themes, tagging each entry with its narrative segment ("Part 1", "Part 2", or "Part 3"):
+
+1. "Phonocentric Ableism & Social Stigma" (6 quotes):
+   - Definition: Passages showing society equating lack of spoken language with lack of interiority/emotion, maternal shame over bodily "deformity," linguistic alienation from speaking humans, caste ostracization threats, and marital replacement by a speaking wife.
+
+2. "Embodied & Multispecies Affective Language" (5 quotes):
+   - Definition: Passages depicting non-verbal semiotics—the "language of the eyes," river/natural resonance, and reciprocal tactile/emotional communication with non-human animals (cows Sarbbashi and Panguli).
+
+3. "Patriarchal Commodification & Caste Orthodoxy" (6 quotes):
+   - Definition: Passages portraying the bride-inspection ritual, ornamental erasure of natural agency, monetization of Subha's tears as bridal docility, and parental relief at preserving caste status through marriage.
+
+STRICT CONSTRAINTS:
+- Extract exact, word-for-word strings from the corpus without paraphrasing or altering punctuation.
+- Output strictly a valid Python dictionary named `thematic_extractions` with no surrounding prose.
+
+OUTPUT FORMAT:
+thematic_extractions = {
+    "Phonocentric Ableism & Social Stigma": [
+        {"quote": "<verbatim quote>", "part": "<Part 1|Part 2|Part 3>"}
+    ],
+    "Embodied & Multispecies Affective Language": [
+        {"quote": "<verbatim quote>", "part": "<Part 1|Part 2|Part 3>"}
+    ],
+    "Patriarchal Commodification & Caste Orthodoxy": [
+        {"quote": "<verbatim quote>", "part": "<Part 1|Part 2|Part 3>"}
+    ]
+}
